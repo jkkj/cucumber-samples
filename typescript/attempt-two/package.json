@@ -1,0 +1,14 @@
+{
+  "name": "cucumber-selenium-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Kováč",
+  "license": "MIT",
+  "dependencies": {
+    "@cucumber/cucumber": "^9.1.0"
+  }
+}
